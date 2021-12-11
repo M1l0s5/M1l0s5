@@ -2,4 +2,3 @@
 - 👀 I’m interested in making sort of a personal assistant using python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with anyone interested on basically anything programing related
-- 📫 How to reach me Szolim#2076 on discord
